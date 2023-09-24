@@ -1,0 +1,82 @@
+.card {
+  width: 13rem;
+  height: 17rem;
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.card .card-image-container {
+  width: 100%;
+  height: 75%;
+  overflow: hidden;
+  border-radius: 1rem;
+}
+
+.card-image-container .card-image {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card .card-details {
+  height: 25%;
+  display: grid;
+  align-items: flex-end;
+  grid-template-columns: 1fr 3fr 1fr;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.card-details .location-mark {
+  font-size: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #8e8bff ;
+}
+
+.card-details .place-details {
+  display: flex;
+  flex-direction: column;
+  line-height: 1rem;
+}
+
+.place-details .place {
+    font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.place-details .country {
+  font-size: 0.75rem;
+  color: #757575;
+}
+
+.card-details .rating{
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.rating i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #8e8bff ;
+}
+
+.card .favorite-btn {
+  position: absolute;
+  top: 1.7rem;
+  right: 1.7rem;
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+
+.favorite-btn i {
+  font-size: 1.5rem;
+  color: #f2fcfe;
+}

@@ -1,0 +1,50 @@
+.ticket {
+  width: 20rem;
+  height: 7rem;
+  margin: 0 auto;
+  background: url(../../../public/assets/ticket.png);
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #f2fcfe;
+  cursor: pointer;
+  transition: 400ms ease-in-out;
+}
+
+.ticket:hover {
+  transform: scale(1.05);
+}
+
+.ticket .travel-details {
+  width: 90%;
+  height: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.travel-details .departure {
+  display: flex;
+  flex-direction: column;
+}
+
+.travel-details .arrival {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.departure-place,
+.arrival-place {
+  font-weight: 600;
+}
+
+.flight-details {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 600;
+}

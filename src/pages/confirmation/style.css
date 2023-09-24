@@ -1,0 +1,12 @@
+.confirmation-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.confirmation-page .stack-container{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}

@@ -1,0 +1,30 @@
+.home .main-page {
+  width: 100%;
+  display: flex;
+  padding: 3rem;
+  position: relative;
+  display: grid;
+  grid-template-areas:
+    "banner-illustration banner-image"
+    "carousel carousel";
+overflow-x: hidden;
+}
+.main-page .banner-illustration {
+  height: 100%;
+  grid-area: banner-illustration;
+}
+
+.main-page .banner-image {
+  min-height: 20vw;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 3rem;
+  background-size: cover;
+  grid-area: banner-image;
+}
+
+.main-content {
+  grid-area: carousel;
+}
