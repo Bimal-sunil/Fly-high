@@ -1,0 +1,227 @@
+[
+  {
+    "from": "New York, NY",
+    "to": "London",
+    "durationHours": 7
+  },
+  {
+    "from": "New York, NY",
+    "to": "Paris",
+    "durationHours": 7
+  },
+  {
+    "from": "New York, NY",
+    "to": "Tokyo",
+    "durationHours": 14
+  },
+  {
+    "from": "New York, NY",
+    "to": "Sydney",
+    "durationHours": 19
+  },
+  {
+    "from": "New York, NY",
+    "to": "Beijing",
+    "durationHours": 14
+  },
+  {
+    "from": "New York, NY",
+    "to": "Dubai",
+    "durationHours": 12
+  },
+  {
+    "from": "New York, NY",
+    "to": "Frankfurt",
+    "durationHours": 8
+  },
+  {
+    "from": "New York, NY",
+    "to": "Singapore",
+    "durationHours": 18
+  },
+  {
+    "from": "New York, NY",
+    "to": "Toronto, ON",
+    "durationHours": 1.5
+  },
+  {
+    "from": "London",
+    "to": "Paris",
+    "durationHours": 1
+  },
+  {
+    "from": "London",
+    "to": "Tokyo",
+    "durationHours": 12
+  },
+  {
+    "from": "London",
+    "to": "Sydney",
+    "durationHours": 20
+  },
+  {
+    "from": "London",
+    "to": "Beijing",
+    "durationHours": 11
+  },
+  {
+    "from": "London",
+    "to": "Dubai",
+    "durationHours": 7
+  },
+  {
+    "from": "London",
+    "to": "Frankfurt",
+    "durationHours": 2
+  },
+  {
+    "from": "London",
+    "to": "Singapore",
+    "durationHours": 14
+  },
+  {
+    "from": "London",
+    "to": "Toronto, ON",
+    "durationHours": 7
+  },
+  {
+    "from": "Paris",
+    "to": "Tokyo",
+    "durationHours": 12
+  },
+  {
+    "from": "Paris",
+    "to": "Sydney",
+    "durationHours": 20
+  },
+  {
+    "from": "Paris",
+    "to": "Beijing",
+    "durationHours": 11
+  },
+  {
+    "from": "Paris",
+    "to": "Dubai",
+    "durationHours": 7
+  },
+  {
+    "from": "Paris",
+    "to": "Frankfurt",
+    "durationHours": 2
+  },
+  {
+    "from": "Paris",
+    "to": "Singapore",
+    "durationHours": 14
+  },
+  {
+    "from": "Paris",
+    "to": "Toronto, ON",
+    "durationHours": 7
+  },
+  {
+    "from": "Tokyo",
+    "to": "Sydney",
+    "durationHours": 9
+  },
+  {
+    "from": "Tokyo",
+    "to": "Beijing",
+    "durationHours": 4
+  },
+  {
+    "from": "Tokyo",
+    "to": "Dubai",
+    "durationHours": 9
+  },
+  {
+    "from": "Tokyo",
+    "to": "Frankfurt",
+    "durationHours": 12
+  },
+  {
+    "from": "Tokyo",
+    "to": "Singapore",
+    "durationHours": 7
+  },
+  {
+    "from": "Tokyo",
+    "to": "Toronto, ON",
+    "durationHours": 13
+  },
+  {
+    "from": "Sydney",
+    "to": "Beijing",
+    "durationHours": 11
+  },
+  {
+    "from": "Sydney",
+    "to": "Dubai",
+    "durationHours": 13
+  },
+  {
+    "from": "Sydney",
+    "to": "Frankfurt",
+    "durationHours": 20
+  },
+  {
+    "from": "Sydney",
+    "to": "Singapore",
+    "durationHours": 8
+  },
+  {
+    "from": "Sydney",
+    "to": "Toronto, ON",
+    "durationHours": 21
+  },
+  {
+    "from": "Beijing",
+    "to": "Dubai",
+    "durationHours": 9
+  },
+  {
+    "from": "Beijing",
+    "to": "Frankfurt",
+    "durationHours": 9
+  },
+  {
+    "from": "Beijing",
+    "to": "Singapore",
+    "durationHours": 6
+  },
+  {
+    "from": "Beijing",
+    "to": "Toronto, ON",
+    "durationHours": 13
+  },
+  {
+    "from": "Dubai",
+    "to": "Frankfurt",
+    "durationHours": 7
+  },
+  {
+    "from": "Dubai",
+    "to": "Singapore",
+    "durationHours": 6
+  },
+  {
+    "from": "Dubai",
+    "to": "Toronto, ON",
+    "durationHours": 14
+  },
+  {
+    "from": "Frankfurt",
+    "to": "Singapore",
+    "durationHours": 12
+  },
+  {
+    "from": "Frankfurt",
+    "to": "Toronto, ON",
+    "durationHours": 7
+  },
+  {
+    "from": "Singapore",
+    "to": "Toronto, ON",
+    "durationHours": 18
+  }
+]

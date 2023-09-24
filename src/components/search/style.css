@@ -33,6 +33,17 @@
   transition: 400ms ease-in-out;
 }
 
+.search-option.active{
+    color: #f2fcfe;
+    background: #8e8bff;
+    border: none;
+}
+
+.search-option.active i{
+    background-color: #f2fcfe;
+    color: #8e8bff;
+}
+
 .search-list .search-option:hover{
     transform: scale(1.1);
 }
@@ -80,8 +91,9 @@
 }
 
 .search-main-content .search-btn{
-    padding: 1rem;
+    padding: 1rem 1.5rem;
     border-radius: 50px;
+    font-family: "Poppins", sans-serif;
     background-color: #8e8bff;
     color: #f2fcfe;
     border: none;

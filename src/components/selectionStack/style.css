@@ -30,7 +30,7 @@
 }
 
 .stack-details .travel-date,
-.stack-details .travel-class {
+.stack-details .travel-className {
   padding: 0.5rem 1rem;
   display: flex;
   align-items: center;
@@ -42,7 +42,7 @@
 }
 
 .travel-date i,
-.travel-class i {
+.travel-className i {
   font-size: 1rem;
   display: flex;
   align-items: center;

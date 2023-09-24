@@ -13,13 +13,17 @@
   gap: 4rem;
 }
 
+.carousel-list {
+  overflow-x: hidden;
+}
+
 .carousel-list .carousel-slider {
   width: 100%;
   display: flex;
   align-items: center;
   gap: 2rem;
   flex-basis: 1;
-  overflow-x: hidden;
+  transition: transform 400ms ease-in-out;
 }
 
 .carousel-main .arrow-btn {
@@ -34,12 +38,13 @@
   transition: 400ms ease-in-out;
 }
 
-.carousel-main .arrow-btn:hover{
-    transform: scale(1.1);
+.carousel-main .arrow-btn:hover {
+  transform: scale(1.1);
 }
 
-.arrow-btn.hidden-arrow{
-    opacity: 0;
+.arrow-btn.hidden-arrow {
+  opacity: 0;
+  pointer-events: none;
 }
 
 .arrow-btn i {

@@ -1,0 +1,82 @@
+[
+  {
+    "place": "New York, NY",
+    "country": "United States",
+    "countryCode": "USA",
+    "airport": "John F. Kennedy International Airport",
+    "image": "https://images.unsplash.com/photo-1566546415667-71e5245881ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV3eW9ya3xlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 4
+  },
+  {
+    "place": "London",
+    "country": "United Kingdom",
+    "countryCode": "GBR",
+    "airport": "Heathrow Airport",
+    "image": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bG9uZG9ufGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 5
+  },
+  {
+    "place": "Paris",
+    "country": "France",
+    "countryCode": "FRA",
+    "airport": "Charles de Gaulle Airport",
+    "image": "https://images.unsplash.com/photo-1568668392383-58c369615742?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fHBhcmlzfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 4
+  },
+  {
+    "place": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JPN",
+    "airport": "Tokyo Narita International Airport",
+    "image": "https://images.unsplash.com/photo-1522547902298-51566e4fb383?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRva3lvfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 4
+},
+{
+    "place": "Sydney",
+    "country": "Australia",
+    "countryCode": "AUS",
+    "airport": "Sydney Airport",
+    "image": "https://images.unsplash.com/photo-1590716209211-ea74d5f63573?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c3lkbmV5fGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 4
+},
+{
+    "place": "Beijing",
+    "country": "China",
+    "countryCode": "CHN",
+    "airport": "Beijing Capital International Airport",
+    "image": "https://images.unsplash.com/photo-1603258740665-711401f368bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmVpamluZ3xlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 5
+},
+{
+    "place": "Dubai",
+    "country": "United Arab Emirates",
+    "countryCode": "ARE",
+    "airport": "Dubai International Airport",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHViYWl8ZW58MHwxfDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "rating": 5
+},
+{
+    "place": "Frankfurt",
+    "country": "Germany",
+    "countryCode": "GER",
+    "airport": "Frankfurt Airport",
+    "image": "https://images.unsplash.com/photo-1565321326010-48a2c4ab4aae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RnJhbmtmdXJ0fGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 4
+},
+{
+    "place": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SGP",
+    "airport": "Changi Airport",
+    "image": "https://images.unsplash.com/photo-1555217851-6141535bd771?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2Fwb3JlfGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 5
+},
+{
+    "place": "Toronto, ON",
+    "country": "Canada",
+    "countryCode": "CAN",
+    "airport": "Toronto Pearson International Airport",
+    "image": "https://images.unsplash.com/photo-1586576782138-19304c43d0e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dG9yb250b3xlbnwwfDF8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": 4
+  }
+]

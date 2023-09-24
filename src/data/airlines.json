@@ -1,0 +1,53 @@
+[
+    {
+      "airlineName": "Delta Air Lines",
+      "seatsAvailable": 200,
+      "averageCost": 350
+    },
+    {
+      "airlineName": "British Airways",
+      "seatsAvailable": 180,
+      "averageCost": 400
+    },
+    {
+      "airlineName": "Air France",
+      "seatsAvailable": 160,
+      "averageCost": 380
+    },
+    {
+      "airlineName": "Japan Airlines",
+      "seatsAvailable": 220,
+      "averageCost": 420
+    },
+    {
+      "airlineName": "Qantas Airways",
+      "seatsAvailable": 190,
+      "averageCost": 360
+    },
+    {
+      "airlineName": "Emirates",
+      "seatsAvailable": 250,
+      "averageCost": 500
+    },
+    {
+      "airlineName": "Lufthansa",
+      "seatsAvailable": 170,
+      "averageCost": 390
+    },
+    {
+      "airlineName": "Singapore Airlines",
+      "seatsAvailable": 210,
+      "averageCost": 430
+    },
+    {
+      "airlineName": "Air Canada",
+      "seatsAvailable": 185,
+      "averageCost": 370
+    },
+    {
+      "airlineName": "American Airlines",
+      "seatsAvailable": 195,
+      "averageCost": 340
+    }
+  ]
+  
